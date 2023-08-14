@@ -1,6 +1,6 @@
 Hi there!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thePhenom21&layout=pie)](https://github.com/thePhenom21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thePhenom21&layout=donut-vertical)](https://github.com/thePhenom21/github-readme-stats)
 <!--
 **thePhenom21/thePhenom21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
