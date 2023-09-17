@@ -1,3 +1,3 @@
 Hi there!
 
-![thePhenom21's stats](https://github-readme-stats.vercel.app/api?username=thePhenom21&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thePhenom21&layout=compact)
